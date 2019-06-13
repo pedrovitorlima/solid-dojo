@@ -11,7 +11,7 @@ public class SOLIDDojoMain {
 
         while(scanner.hasNextLine()) {
             String command = scanner.nextLine();
-            System.out.println(translator.foo(command));
+            System.out.println(translator.proccessCommand(command));
         }
 
         scanner.close();

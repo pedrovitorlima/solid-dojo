@@ -10,7 +10,7 @@ public class Translator {
 
     private Map<String, String> dictionary = new HashMap<String, String>();
 
-    public String foo(String command) {
+    public String proccessCommand(String command) {
 
         String answer;
 
