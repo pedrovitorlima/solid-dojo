@@ -1,8 +1,8 @@
-package com.thoughtworks.dojo.srp;
+package com.thoughtworks.dojo;
 
 import java.util.Scanner;
 
-public class SRPMain {
+public class SOLIDDojoMain {
 
     public static void main(String[] args) {
 

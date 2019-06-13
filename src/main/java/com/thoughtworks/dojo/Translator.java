@@ -1,4 +1,4 @@
-package com.thoughtworks.dojo.srp;
+package com.thoughtworks.dojo;
 
 import java.util.HashMap;
 import java.util.Map;
